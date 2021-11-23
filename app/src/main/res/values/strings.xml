@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Examen_1a_ev_Alejandro_Mendez_Mendez</string>
+    <string name="zona_de_asientos">ZONA DE ASIENTOS</string>
+    <string name="cantidad_de_entradas">Cantidad de entradas</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="eres_socio_del_club">¿Eres socio del club?</string>
+    <string name="total_a_pagar">Total a pagar:</string>
+    <string name="si_descuento_10_total">Si(descuento 10% total)</string>
+    <string name="no_sin_descuento">No(sin descuento)</string>
+    <string name="zona_general">Zona general:</string>
+    <string name="cantidad">Cantidad:</string>
+    <string name="total">Total:</string>
+    <string name="descuento_socio">Descuento Socio</string>
+</resources>
